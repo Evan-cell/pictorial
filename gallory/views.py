@@ -18,7 +18,7 @@ def loginUser(request):
             login(request, user)
             return redirect('gallery')
 
-    return render(request, 'photos/login_register.html', {'page': page})
+    return render(request, 'login_register.html', {'page': page})
 
 
 def logoutUser(request):
@@ -38,7 +38,7 @@ def registerUser(request):
 
             if user is not None:
                 login(request, user)
-                return redirect('index')
+                return redirect('gallery')
 
     context = {'form': form, 'page': page}
     return render(request, 'login_register.html', context)
@@ -91,7 +91,7 @@ def addPhoto(request):
                 image=image,
             )
 
-        return redirect('index')
+        return redirect('gallery')
 
     context = {'categories': categories}
     return render(request, 'add.html', context)
