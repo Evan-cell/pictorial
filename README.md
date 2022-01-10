@@ -2,6 +2,11 @@
 Created By DEV KIM on 31-12-2021
 # Description
 A personal gallery is a simple photo gallery web application to showcase beautiful pictures and designs. Users get to view photos updated by the site admin. Users can see photos based on the location, by clicking on the listed locations in the menu. They can also copy the link to a photo to paste at their discretion. The search function will search photos based on the categories.
+# Screenshots
+
+![my screenshot](https://media-exp1.licdn.com/dms/image/C4E22AQEDVEPoAmNJtA/feedshare-shrink_800/0/1641826249925?e=1644451200&v=beta&t=cYhOEOSmiabqtjcn-_AT3UR8iFV1zxKf0Lma4mPS0X4)
+![my screenshot](https://media-exp1.licdn.com/dms/image/C4E22AQGZ7PKe1QsK4g/feedshare-shrink_800/0/1641826284441?e=1644451200&v=beta&t=Yrq-wUThLH_0V7NQRKM2kflNJ5hGuv2s4YUSWKQwPLg)
+![my screenshot](https://media-exp1.licdn.com/dms/image/C4E22AQFGbh-_rJ6TFw/feedshare-shrink_800/0/1641826310224?e=1644451200&v=beta&t=t5e8wCzwv1MxP2AtOTfmiySwa7nLyJTeGZjT4gFDT0k)
 
 # Setup Requirements
 Git
